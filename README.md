@@ -4,5 +4,5 @@ This dataset is a sub-dataset of the DomainEA dataset and was constructed utiliz
 
 # tableA
 | id | name | mainFood | subFood | skill | taste | difficulty | 
-
+| --- | --- | --- | --- | --- | --- | --- |
 #tableB
