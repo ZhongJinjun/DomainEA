@@ -9,3 +9,13 @@ This dataset is a sub-dataset of the DomainEA dataset and was constructed utiliz
 # tableB
 | id | name | mainFood | subFood | skill | taste | difficulty | time |
 | --- | --- | --- | --- | --- | --- | --- | --- |
+
+Description
+To ensure the quality of the dataset, the team cleaned and pre-processed the initial data, and built the precipitated knowledge into a knowledge graph and applied it to the practical aspects. The details of the work will be discussed in detail in a forthcoming paper by the team members.
+
+We present here a demo of the dataset.
+
+Due to the unpublished paper and the confidentiality of the project, we have only published a part of the data as a formal presentation. We have not yet published the user review data in the dataset. The complete dataset and the construction method will be fully disclosed after the publication of the paper.
+
+This team is from the Data Science and Knowledge Engineering Laboratory of Zhengzhou University of Light Industry.
+
