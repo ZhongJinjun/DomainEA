@@ -17,15 +17,4 @@ Due to the unpublished paper and the confidentiality of the project, we have onl
 
 This team is from the Data Science and Knowledge Engineering Laboratory of Zhengzhou University of Light Industry.
 
-<div align="center">
-<img src="![Uploading image.png…]()" />
-</div>
-<style>
-div img {
-  display: block;
-  margin: 0 auto;
-}
-</style>
-
-
 ![image](https://github.com/ZhongJinjun/DomainEA/assets/133090446/1d2d0ccf-341e-44c0-ba1c-5a8d0cbe078e)
